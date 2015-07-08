@@ -1,0 +1,13 @@
+p{
+    color: brown;
+}
+table.table1{
+    border: solid 1px;
+    text-align: center;
+    width: 50%;
+}
+th{
+    width: 200px;
+    background-color: burlywood;
+    color: blue;
+}
